@@ -1,0 +1,5 @@
+a = input("Timro name k ho babu?")
+print("Mero geda kha "+ a)
+b = input("Yauta number lekh mugi")
+c = input("Arko  number ni lekh gulla")
+print("Minus garda yeti aaucha", int(b)-int(c))
